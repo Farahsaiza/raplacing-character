@@ -1,0 +1,5 @@
+Ch=str(input("write a text: "))
+C=str(input("enter the requested character: "))
+R=str(input("write the new character: "))
+x=Ch.replace(C,R)
+print(x)
